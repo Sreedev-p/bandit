@@ -1,0 +1,53 @@
+<--------------------  Level0  --------------------------------------------------------------------------->
+method 	 : NONE
+password : bandit0
+next 	 : read readme
+next password : ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
+
+<--------------------  Level1  --------------------------------------------------------------------------->
+method 	      : read a file with name "-"
+next password : 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
+
+<--------------------  Level2  --------------------------------------------------------------------------->
+method 	      : read a file with name which contain spaces
+next password : MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
+
+<--------------------  Level3  --------------------------------------------------------------------------->
+method 	      : read a fhidden file
+next password : 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
+
+<--------------------  Level4  --------------------------------------------------------------------------->
+method 	      : find readable file
+next password : 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
+
+<--------------------  Level5  --------------------------------------------------------------------------->
+method 	      : search for a file with 1033 bytes and is readable
+next password : HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
+
+<--------------------  Level6  --------------------------------------------------------------------------->
+method 	      : search for a file with group bandit6 user bandit7 sie 33 bytes
+next password : morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
+
+<--------------------  Level7  --------------------------------------------------------------------------->
+method 	      : use grep --> password next to word "millionth"
+next password : dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
+
+<--------------------  Level8  --------------------------------------------------------------------------->
+method 	      : the unique line in the data.txt
+next password : 4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
+
+<--------------------  Level9  --------------------------------------------------------------------------->
+method 	      : inside data.txt preceded by several "=" symbols
+next password : FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
+
+<--------------------  Level10  --------------------------------------------------------------------------->
+method 	      : password is base64 encoded
+next password : dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
+
+<--------------------  Level11  --------------------------------------------------------------------------->
+method 	      : password is offset by 13 char to right (ROT13)
+next password : 7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4
+
+<--------------------  Level11  --------------------------------------------------------------------------->
+method 	      : given a txt file : need to decompress and unarchive multiple times
+next password :FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn
