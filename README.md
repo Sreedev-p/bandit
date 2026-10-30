@@ -12,7 +12,7 @@ Greece, on the other hand, operates within the Eurozone. This means its monetary
 As the chart indicates, there is a massive difference in sheer economic scale. The UK is one of the largest advanced economies in the world, generating a multi-trillion-dollar GNI driven by global finance and services. Greece, by contrast, is a much smaller economy. While their overall GNI footprints are vastly different in size, tracking the growth of this total output over the last five years gives us a baseline for how both economies are recovering and expanding at their respective scales."
 ## Slide 4: GNI Per Capita
 **Speaker Notes:**
-"To get a more localized view, Slide 4 breaks this down into GNI Per Capita—essentially dividing that total economic output by the population.
+"To get a more localized view, we can break this down into GNI Per Capita—essentially dividing that total economic output by the population.
 This metric provides a baseline for average economic health and individual purchasing power. However, while a rising per capita income outlines overall national growth, it is important to remember that it is strictly an average. As we look at these figures for the UK and Greece, keep in mind that per capita income does not reflect actual wealth distribution, and it can sometimes mask underlying income inequality within the broader population."
 ## Slide 5: The 2022 Inflation Shock & Recovery
 **Speaker Notes:**
